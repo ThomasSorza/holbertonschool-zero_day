@@ -1,1 +1,1 @@
-Getting started
+Getting started, This is a Vagrant project
